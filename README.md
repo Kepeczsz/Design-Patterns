@@ -1,1 +1,1 @@
-# Wzorce-Projektowe
+# Design Patterns
