@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12604e25-6fb2-42f0-abfb-9d80ed78857a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/.settings/org.jboss.ide.eclipse.as.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/StarCafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/napoje/Bezkofeinowa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/napoje/MocnoPalona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/napoje/Napój.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/napoje/StarCafeSpecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/skladniki/SkladnikDekorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/BitaSmietana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/Czekolada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/MleczkoSojowe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/bin/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/Mleko.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/StarCafe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/napoje/Bezkofeinowa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/napoje/MocnoPalona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/napoje/Napój.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/napoje/StarCafeSpecial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/skladniki/SkladnikDekorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/BitaSmietana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/Czekolada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/MleczkoSojowe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wzorzec_Dekorator/src/pl/edu/zut/wo/wzorce/cafe/skladniki/dodatki/Mleko.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2I01D30gjUn2ZG8N9Oy2jkEcW5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/michal/Desktop/Wzorce Projektowe/Dp_Decorator",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SensorTest">
+    <configuration name="CzujnikiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.zut.po.wzorce.czujniki.adapterobiektowy.CzujnikiTest" />
+      <module name="CzujnikiPogodowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.zut.po.wzorce.czujniki.adapterobiektowy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SensorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classAdapter.SensorTest" />
+      <module name="CzujnikiPogodowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classAdapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SensorTest" />
+        <item itemvalue="Application.CzujnikiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12604e25-6fb2-42f0-abfb-9d80ed78857a" name="Changes" comment="" />
+      <created>1669303563905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669303563905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
